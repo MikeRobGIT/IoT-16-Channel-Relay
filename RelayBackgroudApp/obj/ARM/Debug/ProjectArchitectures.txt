@@ -1,1 +1,1 @@
-C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\RelayBackgroudApp.csproj;arm
+C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\RelayBackgroudApp.csproj;arm

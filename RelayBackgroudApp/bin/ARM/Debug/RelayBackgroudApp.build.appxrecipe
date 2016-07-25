@@ -10,19 +10,19 @@
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>2bff5a23-4ce6-4f41-b086-c56f3c9000d4</PackageIdentityName>
     <PackageIdentityPublisher>CN=micha</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\obj\ARM\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\bin\ARM\Debug\RelayBackgroudApp.winmd">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\bin\ARM\Debug\RelayBackgroudApp.winmd">
       <PackagePath>RelayBackgroudApp.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\TestPlatform.Universal\14.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
@@ -373,33 +373,33 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\TestPlatform.Universal\14.0\Redist\CommonConfiguration\neutral\vstest_executionengine_platformbridge.winmd">
       <PackagePath>vstest_executionengine_platformbridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
@@ -415,10 +415,10 @@
     <AppxPackagedFile Include="C:\Users\micha\.nuget\packages\Microsoft.IoT.DeviceHelpers\1.0.4\lib\uap10.0\Microsoft.IoT.DeviceHelpers\Properties\Microsoft.IoT.DeviceHelpers.rd.xml">
       <PackagePath>Microsoft.IoT.DeviceHelpers\Properties\Microsoft.IoT.DeviceHelpers.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\Visual Studio 2015\Projects\RelayBackgroudApp\RelayBackgroudApp\bin\ARM\Debug\Core\UWPShim.exe">
+    <AppxPackagedFile Include="C:\Users\micha\Source\Repos\IoT-16-Channel-Relay\RelayBackgroudApp\bin\ARM\Debug\Core\UWPShim.exe">
       <PackagePath>UWPShim.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
